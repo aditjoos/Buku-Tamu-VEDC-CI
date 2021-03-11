@@ -34,11 +34,11 @@
         <thead class="thead-dark">
           <tr>
             <th scope="col">ID</th>
-            <th scope="col">Name</th>
-            <th scope="col">Province</th>
-            <th scope="col">District</th>
-            <th scope="col">Address</th>
-            <th scope="col">Office</th>
+            <th scope="col">Nama</th>
+            <th scope="col">Provinsi</th>
+            <th scope="col">Kabupaten</th>
+            <th scope="col">Alamat</th>
+            <th scope="col">Instansi</th>
             <th scope="col">Action</th>
           </tr>
         </thead>
